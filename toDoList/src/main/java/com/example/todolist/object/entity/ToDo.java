@@ -9,9 +9,9 @@ public class ToDo {
     @MongoId(FieldType.OBJECT_ID)
     private String id;
     private String text;
-    private boolean done;
+    private Boolean done ;
 
-    public ToDo(String id, String text, boolean done) {
+    public ToDo(String id, String text, Boolean done) {
         this.id = id;
         this.text = text;
         this.done = done;
@@ -33,11 +33,11 @@ public class ToDo {
         this.text = text;
     }
 
-    public boolean isDone() {
+    public Boolean isDone() {
         return done;
     }
 
-    public void setDone(boolean done) {
+    public void setDone(Boolean done) {
         this.done = done;
     }
 }

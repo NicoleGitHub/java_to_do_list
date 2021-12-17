@@ -1,12 +1,12 @@
-com/example/todolist/ToDoApplication.java
- com.example.todolist.ToDoApplication
-com/example/todolist/repository/ToDoRepository.java
- com.example.todolist.repository.ToDoRepository
-com/example/todolist/exception/NoToDoFoundException.java
- com.example.todolist.exception.NoToDoFoundException
 com/example/todolist/object/entity/ToDo.java
  com.example.todolist.object.entity.ToDo
 com/example/todolist/controller/ToDoController.java
  com.example.todolist.controller.ToDoController
+com/example/todolist/exception/NoToDoFoundException.java
+ com.example.todolist.exception.NoToDoFoundException
+com/example/todolist/ToDoApplication.java
+ com.example.todolist.ToDoApplication
+com/example/todolist/repository/ToDoRepository.java
+ com.example.todolist.repository.ToDoRepository
 com/example/todolist/service/ToDoService.java
  com.example.todolist.service.ToDoService

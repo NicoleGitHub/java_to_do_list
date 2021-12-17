@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2e45c96c-9eda-4b15-a177-519bf4826a3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/toDoList/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toDoList/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toDoList/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/toDoList/src/test/java/service/ToDoServiceTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.idea/sonarlint/issuestore/5/1/511a66236c5d220b0c0b129ccd1b39813e186b3c" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/.idea/sonarlint/issuestore/5/1/511a66236c5d220b0c0b129ccd1b39813e186b3c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.idea/sonarlint/issuestore/6/3/63980782d184cf22686762497a5ea3085eb8a670" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.idea/sonarlint/issuestore/6/7/6774708eac9dfdb720f369b44760ccce12a01415" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/.idea/sonarlint/issuestore/6/7/6774708eac9dfdb720f369b44760ccce12a01415" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.idea/sonarlint/issuestore/9/0/90bcd4f905f2f4463bef7a1053638e93ea1f4409" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.idea/sonarlint/issuestore/d/5/d5f78120c4b284fe6ee8e2bf37028918ccb9464e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/src/main/java/com/example/todolist/controller/ToDoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/src/main/java/com/example/todolist/controller/ToDoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/src/main/java/com/example/todolist/object/entity/ToDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/src/main/java/com/example/todolist/object/entity/ToDo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toDoList/src/main/java/com/example/todolist/service/ToDoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/toDoList/src/main/java/com/example/todolist/service/ToDoService.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="22MxMB77FFZuD2AzC0GvnWDmlBq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/toDoList" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2e45c96c-9eda-4b15-a177-519bf4826a3e" name="Default Changelist" comment="" />
+      <created>1639661207083</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1639661207083</updated>
+      <workItem from="1639661208642" duration="346000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
