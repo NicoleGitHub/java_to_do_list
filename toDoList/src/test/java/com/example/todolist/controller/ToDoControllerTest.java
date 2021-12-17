@@ -38,7 +38,7 @@ public class ToDoControllerTest {
     void should_return_todos_when_get_all_given() throws Exception {
 
         //given
-        ToDo toDo = new ToDo("1", "text 1", false);
+        ToDo toDo = new ToDo("61bbf9d9692c4f32f2f336b2", "text 1", false);
         toDoService.insertToDo(toDo);
 
         //when
@@ -56,7 +56,7 @@ public class ToDoControllerTest {
 
         //given
         String todo = "    {\n" +
-                "        \"id\": 1,\n" +
+                "        \"id\": \"61bbf9d9692c4f32f2f336b2\",\n" +
                 "        \"text\": \"text 1\",\n" +
                 "        \"done\": \"false\"\n" +
                 "    }";
@@ -74,7 +74,7 @@ public class ToDoControllerTest {
     void should_when_delete_todo_given_id() throws Exception {
 
         //given
-        ToDo toDo = new ToDo("1", "text 1", false);
+        ToDo toDo = new ToDo("61bbf9d9692c4f32f2f336b2", "text 1", false);
         toDoService.insertToDo(toDo);
 
         //when
@@ -90,12 +90,33 @@ public class ToDoControllerTest {
     void should_when_update_todo_given_todo_with_text() throws Exception {
 
         //given
-        ToDo toDo = new ToDo("1", "text 1", false);
+        ToDo toDo = new ToDo("61bbf9d9692c4f32f2f336b2", "text 1", null);
         toDoService.insertToDo(toDo);
         String todo = "    {\n" +
-                "        \"id\": 1,\n" +
+                "        \"id\": \"61bbf9d9692c4f32f2f336b2\",\n" +
                 "        \"text\": \"text 1\",\n" +
                 "        \"done\": \"false\"\n" +
+                "    }";
+
+        //when
+        //then
+        mockMvc.perform(MockMvcRequestBuilders.put("/todos/" + toDo.getId())
+                .contentType(MediaType.APPLICATION_JSON)
+                .content(todo))
+                .andExpect(MockMvcResultMatchers.status().isOk());
+
+    }
+
+    @Test
+    void should_when_update_todo_given_todo_with_done() throws Exception {
+
+        //given
+        ToDo toDo = new ToDo("61bbf9d9692c4f32f2f336b2", null, false);
+        toDoService.insertToDo(toDo);
+        String todo = "    {\n" +
+                "        \"id\": \"61bbf9d9692c4f32f2f336b2\",\n" +
+                "        \"text\": \"text 1\",\n" +
+                "        \"done\": \"true\"\n" +
                 "    }";
 
         //when

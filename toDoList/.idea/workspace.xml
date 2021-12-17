@@ -5,34 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dc93b45d-bb78-418c-900a-7fab8f239031" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../.idea/java_to_do_list.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/todolist/controller/ToDoControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/todolist/service/ToDoServiceTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/taskHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/f/4f25abb1424814030ba82c0c76f1bb58fd2fc035" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/1/511a66236c5d220b0c0b129ccd1b39813e186b3c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/3/63980782d184cf22686762497a5ea3085eb8a670" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/6774708eac9dfdb720f369b44760ccce12a01415" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/0/90bcd4f905f2f4463bef7a1053638e93ea1f4409" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/5/d5f78120c4b284fe6ee8e2bf37028918ccb9464e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/todolist/controller/ToDoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/todolist/controller/ToDoController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/todolist/object/entity/ToDo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/todolist/object/entity/ToDo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/todolist/service/ToDoService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/todolist/service/ToDoService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/com.example.todolist.controller.ToDoControllerTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/com.example.todolist.controller.ToDoControllerTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/com.example.todolist.controller.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/com.example.todolist.controller.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-com.example.todolist.controller.ToDoControllerTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-com.example.todolist.controller.ToDoControllerTest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/todolist/controller/ToDoControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/todolist/controller/ToDoControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +107,7 @@
       <command value="gradle clean install" />
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.ToDoControllerTest.should_when_delete_todo_given_id">
+  <component name="RunManager" selected="Gradle.ToDoControllerTest.should_when_update_todo_given_todo_with_done">
     <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
       <option name="arquillianRunConfiguration">
         <value>
@@ -131,6 +118,27 @@
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
+    </configuration>
+    <configuration name="ToDoControllerTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.example.todolist.controller.ToDoControllerTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
     <configuration name="ToDoControllerTest.should_when_delete_todo_given_id" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
@@ -153,12 +161,12 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="ToDoControllerTest.should_when_post_todo_given_todo" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+    <configuration name="ToDoControllerTest.should_when_update_todo_given_todo_with_done" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.example.todolist.controller.ToDoControllerTest.should_when_post_todo_given_todo&quot;" />
+        <option name="scriptParameters" value="--tests &quot;com.example.todolist.controller.ToDoControllerTest.should_when_update_todo_given_todo_with_done&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -180,27 +188,6 @@
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="--tests &quot;com.example.todolist.controller.ToDoControllerTest.should_when_update_todo_given_todo_with_text&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="ToDoServiceTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;com.example.todolist.service.ToDoServiceTest&quot;" />
         <option name="taskDescriptions">
           <list />
         </option>
@@ -246,11 +233,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.ToDoControllerTest.should_when_delete_todo_given_id" />
+        <item itemvalue="Gradle.ToDoControllerTest.should_when_update_todo_given_todo_with_done" />
         <item itemvalue="Gradle.ToDoControllerTest.should_when_update_todo_given_todo_with_text" />
+        <item itemvalue="Gradle.ToDoControllerTest" />
+        <item itemvalue="Gradle.ToDoControllerTest.should_when_delete_todo_given_id" />
         <item itemvalue="Gradle.ToDoServiceTest.should_return_nothing_when_updateToDoDone_given_todo_with_text" />
-        <item itemvalue="Gradle.ToDoControllerTest.should_when_post_todo_given_todo" />
-        <item itemvalue="Gradle.ToDoServiceTest" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +251,7 @@
       <updated>1639637092261</updated>
       <workItem from="1639637093532" duration="11602000" />
       <workItem from="1639651377424" duration="4121000" />
-      <workItem from="1639661550205" duration="9087000" />
+      <workItem from="1639661550205" duration="10648000" />
     </task>
     <servers />
   </component>
